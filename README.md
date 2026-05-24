@@ -132,6 +132,7 @@ Developed interactive Tableau dashboards for KPI monitoring, fraud trend analysi
 
 
 ##Repository Structure
+
 ├── data/
 ├── python/
 ├── sql/
@@ -145,6 +146,7 @@ Developed interactive Tableau dashboards for KPI monitoring, fraud trend analysi
 
 
 ##Conclusion
+
 This project demonstrates the implementation of an end-to-end enterprise fraud intelligence and risk monitoring solution integrating Python analytics, SQL Server reporting, and Tableau dashboard visualization into a centralized analytical workflow.
 
 
